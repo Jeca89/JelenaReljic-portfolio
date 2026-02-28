@@ -235,7 +235,6 @@
   }
 }
 
-// Responsive
 @media (max-width: 768px) {
   .about {
     padding: 4rem 1.5rem;
@@ -259,7 +258,6 @@
   }
 }
 
-// Animations
 @keyframes titleLine {
   0% { transform: scaleX(0.3); opacity: 0.3; }
   50% { transform: scaleX(1); opacity: 1; }

@@ -158,7 +158,6 @@
       filter: drop-shadow(0 0 20px rgba($primary, 0.5));
     }
 
-    
     .fa-wordpress { color: #21759B; }
     .fa-html5 { color: #E34F26; }
     .fa-react { color: #61DAFB; }
@@ -176,7 +175,7 @@
 
   &__company {
     font-size: 1rem;
-    color: #000000; 
+    color: #000000;
     margin-bottom: 0.25rem;
     text-align: center;
     font-weight: 500;
@@ -190,7 +189,7 @@
 
   &__period {
     font-size: 0.9rem;
-    color: #000000; 
+    color: #000000;
     margin-bottom: 1.5rem;
     text-align: center;
     font-style: italic;
@@ -301,7 +300,6 @@
   }
 }
 
-// Responsive
 @media (max-width: 992px) {
   .work {
     padding: 4rem 1.5rem;
@@ -329,7 +327,6 @@
   }
 }
 
-// Animation
 @keyframes float {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-5px); }

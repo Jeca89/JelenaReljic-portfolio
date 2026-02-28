@@ -23,7 +23,7 @@ const Contact = () => {
       </div>
       
       <div className="contact__container">
-        
+
         <div className="contact__profile">
           <img 
             src="/images/cvimg.jpg" 
@@ -33,7 +33,6 @@ const Contact = () => {
           />
         </div>
 
-        
         <div className="contact__divider">
           <span className="contact__line"></span>
           <span className="contact__dot"></span>
@@ -105,7 +104,6 @@ const Contact = () => {
           </div>
         </div>
 
-        
         <div className="contact__right">
           <div className="contact__built">
             <p className="contact__built-text">Built by</p>
