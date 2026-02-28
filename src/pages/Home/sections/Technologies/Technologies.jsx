@@ -33,7 +33,7 @@ const Technologies = () => {
   id: 2,
   icon: <SiReact className="si-react" />,
   title: 'React',
-  description: 'Building modern SPAs with functional components, hooks, and context API. State management using Redux Toolkit and React Query. UI development with Material UI and Styled Components. Strong TypeScript integration.'
+  description: 'Building SPAs with React using functional components, hooks, and Context API for state management. Experienced in TypeScript integration, React Router, and modular SASS architecture following BEM methodology.'
 },
     {
       id: 3,
