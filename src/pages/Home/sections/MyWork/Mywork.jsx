@@ -67,7 +67,7 @@ const MyWork = () => {
       buttonIcon: <FaExternalLinkAlt />,
       buttonText: 'View Project',
       buttonAction: 'link',
-      projectUrl: 'https://milan-kotarlic-portfolio.com'
+      projectUrl: 'https://milan-kotarlic-website.vercel.app/'
     }
   ];
 
