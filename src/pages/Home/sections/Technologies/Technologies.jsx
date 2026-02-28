@@ -24,17 +24,17 @@ const Technologies = () => {
   const technologies = [
     // Red 1
     {
-      id: 1,
-      icon: <SiJavascript className="si-javascript" />,
-      title: 'JavaScript',
-      description: 'Used every day, from frameworks to chrome extension in vanilla JS. Functional and Object oriented programming.'
-    },
+  id: 1,
+  icon: <SiJavascript className="si-javascript" />,
+  title: 'JavaScript',
+  description: 'Core language for both client and server-side development. Experienced in ES6+, async patterns, DOM manipulation, and building interactive web applications.'
+},
     {
-      id: 2,
-      icon: <SiReact className="si-react" />,
-      title: 'React',
-      description: 'Used on many projects, with Redux or React query for state management. UI libraries like Material ui. React typescript.'
-    },
+  id: 2,
+  icon: <SiReact className="si-react" />,
+  title: 'React',
+  description: 'Building modern SPAs with functional components, hooks, and context API. State management using Redux Toolkit and React Query. UI development with Material UI and Styled Components. Strong TypeScript integration.'
+},
     {
       id: 3,
       icon: <FiMonitor className="fi-monitor" />,
@@ -49,11 +49,11 @@ const Technologies = () => {
     },
     // Red 2
     {
-      id: 5,
-      icon: <SiCss3 className="si-css3" />,
-      title: 'CSS',
-      description: 'Changing style, color and position of HTML elements, working with animations, working with flexbox and css grid. Building pure css sites.'
-    },
+  id: 5,
+  icon: <SiCss3 className="si-css3" />,
+  title: 'CSS',
+  description: 'Crafting responsive layouts with Flexbox and CSS Grid. Advanced animations, transitions, and modern selectors. Cross-browser compatibility and BEM methodology for scalable code.'
+},
     {
       id: 6,
       icon: <SiSass className="si-sass" />,
