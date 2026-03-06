@@ -439,3 +439,25 @@
   0% { text-shadow: 0 0 20px rgba($primary, 0.3); }
   100% { text-shadow: 0 0 50px rgba($primary, 0.6), 0 0 70px rgba($secondary, 0.3); }
 }
+
+
+@media (max-width: 768px) {
+  .home {
+    &__profile {
+      position: absolute;
+      top: 1rem;
+      left: 1rem;
+      width: 100px;
+      height: 100px;
+      z-index: 100;
+      cursor: pointer;
+      
+      &-img {
+        width: 100px;
+        height: 100px;
+        cursor: pointer;
+        pointer-events: auto;
+      }
+    }
+  }
+}
