@@ -37,7 +37,7 @@ const Home = () => {
       
       <div className="home__profile">
         <img 
-          src="/images/profile.jpeg" 
+          src="/images/cvimg.jpg" 
           alt="profile" 
           className="home__profile-img"
           onClick={() => window.open('/cv.pdf', '_blank')}
