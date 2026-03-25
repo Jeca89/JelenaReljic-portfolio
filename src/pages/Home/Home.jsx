@@ -67,8 +67,8 @@ const Home = () => {
       </div>
 
       <main className="home__main">
-        <h1 className="home__title" data-text="Welcome">Welcome</h1>
-        <p className="home__subtitle">to my portfolio page</p>
+        <h1 className="home__title" data-text="Welcome">Where Logic Meets Creativity</h1>
+        <p className="home__subtitle">Frontend Developer with a QA eye</p>
         <button 
           className="home__button"
           onClick={() => scrollToSection('about')}

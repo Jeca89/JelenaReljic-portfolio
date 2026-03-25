@@ -43,20 +43,20 @@ const About = () => {
           
           <div className="about__right">
             <p className="about__text">
-              Highly motivated and dedicated Web Developer with comprehensive knowledge of both manual and automatic testing. Proficient in a wide range of technologies from HTML, CSS to programming languages like JavaScript and PHP.
-            </p>
+              Where logic meets creativity – that’s where I build.
+
+              My journey is a unique blend of analytical thinking and digital craftsmanship. With a Bachelor’s degree in Economics, I developed a mindset for structured problem-solving, which I now translate into clean and efficient code.</p>
             
             <p className="about__text">
-              I am a dedicated team player with strong work ethic, always ready to collaborate and contribute to project success. My approach combines technical expertise with creative problem-solving, ensuring high-quality results in every task.
-            </p>
+              As a Frontend Developer with a QA background, I don’t just build web applications – I ensure they work flawlessly. I bridge the gap between aesthetic design and technical precision, using a 'QA eye' to catch what others might miss.            </p>
             
             <p className="about__text">
-              In my free time, I enjoy reading books across various genres, which helps me maintain a fresh perspective and continuously learn. I also express my creativity through writing poetry and short stories, which enhances my ability to think outside the box and approach challenges from different angles.
-            </p>
+              I am an AI-forward developer, actively using artificial intelligence to optimize my workflow, speed up debugging, and stay ahead of modern industry standards.            </p>
             
             <p className="about__text">
-              I believe that being a well-rounded individual with diverse interests makes me not only a better developer but also a more empathetic and effective team member.
-            </p>
+             Beyond the code, I am a writer of poetry and short stories. This creative outlet isn't just a hobby; it’s my secret weapon for thinking outside the box and approaching complex technical challenges with a fresh, empathetic perspective.
+
+            I don’t just write code. I create digital solutions with a soul.</p>
           </div>
         </div>
       </div>
